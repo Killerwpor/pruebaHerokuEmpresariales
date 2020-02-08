@@ -4,7 +4,7 @@
 </head>
 <body>
 <?php
-echo 'Hola ' . htmlspecialchars($_GET["name"]) . ':D';
+echo 'Holaa ' . htmlspecialchars($_GET["name"]) . ' :)';
 ?>
 </body>
 </html>
